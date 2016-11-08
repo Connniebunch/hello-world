@@ -1,2 +1,3 @@
 # hello-world
-New project 1
+Hi I'm Connie 
+I like food
